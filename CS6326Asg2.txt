@@ -1,0 +1,10 @@
+Aaaaaaaaaa1	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	F	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:01:01 PM	2/21/2020 11:01:45 PM	0
+Aaaaaaaaaa2	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	M	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:01:47 PM	2/21/2020 11:01:53 PM	1
+Aaaaaaaaaa3	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	F	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:01:54 PM	2/21/2020 11:01:59 PM	1
+Aaaaaaaaaa4	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	M	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:00 PM	2/21/2020 11:02:05 PM	1
+Aaaaaaaaaa5	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	F	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:06 PM	2/21/2020 11:02:10 PM	1
+Aaaaaaaaaa6	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	M	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:11 PM	2/21/2020 11:02:16 PM	1
+Aaaaaaaaaa7	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	F	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:17 PM	2/21/2020 11:02:22 PM	1
+Aaaaaaaaaa8	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	M	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:23 PM	2/21/2020 11:02:27 PM	1
+Aaaaaaaaaa9	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	F	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:28 PM	2/21/2020 11:02:33 PM	1
+Aaaaaaaaaa10	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001-	M	(214) 555-1111	abc@utdallas.edu	True	2/21/2020	2/21/2020 11:02:34 PM	2/21/2020 11:02:39 PM	1
