@@ -1,4 +1,4 @@
-## Rebate Record Maintaining Program.
+## Rebate Record Maintaining Program
 
 This program maintains records of rebates that are turned in by buyers.  
 It operates in five modes:  
@@ -18,7 +18,7 @@ Each new record added to the file will have three hidden fields at the end of ea
 These fields never change after a record is added.  
 You can navigate through the UI by clicking, tabbing, or using alt shortcuts.  
   
-## Rebate Data Analyzer Program.
+## Rebate Data Analyzer Program
 
 This program analyzes records of rebates that have been previously added to Rebate Record Maintenance system.  
  
@@ -35,15 +35,17 @@ You can select thise file by either:
  b) clicking Browse and browsing to the desired file using a Windows File dialog  
  
 The results shown will be in the format:  
-  Number of records:          10  
-	Minimum entry time:         1:12  
-	Maximum entry time:         2:06  
-	Average entry time:         1:37  
-  Minimum inter-record time:  0:03  
-	Maximum inter-record time:  0:9  
-	Average inter-record time:  0:05  
-	Total time:                 16:12  
-	Backspace count:            14  
+  
+Number of records:          10  
+Minimum entry time:         1:12  
+Maximum entry time:         2:06  
+Average entry time:         1:37  
+Minimum inter-record time:  0:03  
+Maximum inter-record time:  0:9  
+Average inter-record time:  0:05  
+Total time:                 16:12  
+Backspace count:            14  
+  
  This is the same format that will be used if you wish to save the results to a file.  
 
 You can save the results to a file by:  
