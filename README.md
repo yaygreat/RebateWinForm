@@ -51,5 +51,4 @@ Backspace count:            14
 You can save the results to a file by:  
  a) leaving the default directory and filename unchanged in the Data Results File Path textbox and clicking Save  
  b) typing in a custom address and/or file name in the same textbox  
- c) clicking Browse and browsing to the desired directory by using a Windows File dialog  
-    and either leave the filename unchanged or customize it  
+ c) clicking Browse and browsing to the desired directory by using a Windows File dialog and either leave the filename unchanged or customize it
